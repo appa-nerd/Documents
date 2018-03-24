@@ -1,0 +1,8 @@
+
+On distributed services
+
+A distributed service is one where the members contribute to the service, usually to provide their own entry point and interface with the service.  Email is an example, before centralized services, users would run their local email.  There are drawbacks, often users cannot maintain the service uptime that commercial providers can.
+
+For email, an unresponsive recipient could be handled by holding the email locally until the recipient is available for response.  This would be more like instant messaging.
+
+A problem with distributed services is search.  Without a centralized record, searching for specific content without a-priori knowledge of the address/name would present challenges not present in centralized/indexed services.
