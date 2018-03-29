@@ -8,3 +8,5 @@ The difficulty of cyber-analysis starts with the problem of fundamentals.  The c
 
 Beginning with the end.  This cliche bit of advice is how an effective cyber-analysis must begin.  Consider the scenarios you wish to avoid.  Select one and consider what conditions are needed to make that happen.  This will likely include many parallel options, a system may be offline/unresponsive, or outputting any incorrect value.  Each of these parallels is the beginning of a dependency-tree that concludes in a bad day.
 The d-tree branches out though the system terminating in many leaf-nodes.  These leaf-nodes are either an arbitrary scope boundary or a functional stop.  These functional stops are nodes that incapable of providing a required input for the current d-tree branch.  Even if these nodes are not on the attackable surface, they are not dead-ends, but place-holders for other orthogonal attack methods.  For instance, a functional stop node could be an target of opportunity for supply chain insertion of a functionally agreeable component.
+
++1
