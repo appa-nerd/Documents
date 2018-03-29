@@ -1,5 +1,9 @@
 Cybernetics
 
+Hacking for fun, profit and denial of use!
+
 Norbert Wiener defined cybernetics in 1948 as "the scientific study of control and communication in the animal and the machine.
 
-The difficulty of cyber-analysis starts with the problem of fundamentals.  The cyber-security industry is big and there are many options that promise to solve any and all concerns.  However, the problem of cyber-security does not decrease with time.  It might be argued that the sophistication of malicious actors is increasing faster than cyber-security can.  
+The difficulty of cyber-analysis starts with the problem of fundamentals.  The cyber-security industry is big and there are many options that promise to solve any and all concerns.  However, the problem of cyber-security does not decrease with time.  It might be argued that the sophistication of malicious actors is increasing faster than cyber-security can.  That answer is correct, but not by virtue of of the advantage of offense.  It is correct because defense fails to learn from the methods of offense.  This isn't to say defense doesn't study offense, the offensive methods are studied very closely.  What defense fails to implement it is the offensive method of discovery.
+
+Beginning with the end.  This cliche bit of advice is how an effective cyber-analysis must begin.  Consider the scenarios you wish to avoid.  Select one and consider what conditions are needed to make that happen.  This will likely include many parallel options, a system may be offline/unresponsive, or outputting any incorrect value.  Each of these parallels is the beginning of a dependency-tree that concludes in a bad day.  
